@@ -1526,6 +1526,7 @@ end
 	AtlasLoot_TableNames["MountsHorde1"] = { AL["Horde Mounts"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["MountsHorde2"] = { AL["Horde Mounts"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["MountsHorde3"] = { AL["Horde Mounts"], "AtlasLootWotLK" };
+	AtlasLoot_TableNames["MountsHorde4"] = { AL["Horde Mounts"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["MountsFaction1"] = { AL["Neutral Faction Mounts"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["MountsPvP1"] = { AL["PvP Mounts"], "AtlasLootWotLK" };
 	AtlasLoot_TableNames["MountsRare1"] = { AL["Rare Mounts"], "AtlasLootWotLK" };
@@ -1727,8 +1728,12 @@ end
 	AtlasLoot_TableNames["MillenniumRouletteStatSession"] = { AL["MillenniumRouletteStatSession"], "AtlasLootSirus" };
 	
 	AtlasLoot_TableNames["BlackDiamonds"] = { AL["BlackDiamonds"], "AtlasLootSirus" };
+	AtlasLoot_TableNames["BlackDiamonds4"] = { AL["BlackDiamonds"], "AtlasLootSirus" };
+	AtlasLoot_TableNames["BlackDiamonds5"] = { AL["BlackDiamonds"], "AtlasLootSirus" };
 	AtlasLoot_TableNames["BlackDiamonds2"] = { AL["BlackDiamonds2"], "AtlasLootSirus" };
 	AtlasLoot_TableNames["BlackDiamonds3"] = { AL["BlackDiamonds3"], "AtlasLootSirus" };
+	AtlasLoot_TableNames["BlackDiamonds6"] = { AL["BlackDiamonds3"], "AtlasLootSirus" };
+	AtlasLoot_TableNames["BlackDiamonds7"] = { AL["BlackDiamonds3"], "AtlasLootSirus" };
 	
 	-- Полироли
 	AtlasLoot_TableNames["pigment"] = { AL["pigment"], "Menu" };
